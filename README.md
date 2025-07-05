@@ -1,10 +1,3 @@
-![operation1](https://github.com/user-attachments/assets/f6c9d09c-f0fc-42dc-a537-f41e91d077d7)
-![operation7](https://github.com/user-attachments/assets/a319c052-dd83-4bf0-93a6-7292f4954b02)
-![operation6](https://github.com/user-attachments/assets/66dec2d7-3276-4fec-9907-c545b0f60197)
-![operation5](https://github.com/user-attachments/assets/2bf6bf05-ee17-4c19-86bd-5666620317f6)
-![operation4](https://github.com/user-attachments/assets/e64bf8e9-f8b7-436a-a868-0708471fecb5)
-![operation3](https://github.com/user-attachments/assets/827c6b46-0ca0-4c08-9c8b-948c0d05d3bd)
-![operation2](https://github.com/user-attachments/assets/1bd7b749-abfd-45d2-a116-0266a24fbce3)
 # 🛒 Console‑Shop: A Modern CLI E‑commerce System
 
 [![Java Version](https://img.shields.io/badge/Java-17%2B-orange)](https://openjdk.java.net/)
