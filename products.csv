@@ -1,0 +1,10 @@
+name,price,quantity,isExpire,requireShipping,weight,productionDate,expirationDays
+TV,5000,5,mayNotExpire,needsShipping,10,,
+Book,120,12,mayNotExpire,doesntNeedShipping,0,,
+Cheese,80,25,mayExpire,needsShipping,0.2,2025-06-01,60
+Banana,10,50,mayExpire,needsShipping,0.15,2025-07-01,7
+ClearanceLaptop,4000,1,mayNotExpire,needsShipping,2.5,,
+YesterdayMilk,30,8,mayExpire,needsShipping,1,2025-06-15,10
+HeavyGenerator,15000,2,mayNotExpire,needsShipping,80,,
+GiftCard,50,100,mayNotExpire,doesntNeedShipping,0,,
+ExpiredYogurt,15,30,mayExpire,needsShipping,0.1,2025-05-01,30
